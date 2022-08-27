@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Eloy Chavez
+tagline: Content Creator
+featuredImage: /assets/p-01wfri_400x400-modified.png
 cta:
-  ctaText: Know more
+  ctaText: Conóceme
   ctaLink: /about
 ---
 
