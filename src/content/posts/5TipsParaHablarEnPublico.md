@@ -2,8 +2,12 @@
 template: blog-post
 title: 5 Tips para perder el miedo a hablar en público remotamente
 slug: /perder-miedo-hablar-público-remotamente
-date: 2020-08-27 14:46
-description: Te invito a imaginar por un momento el estar frente a una multitud de personas que no conoces, que te ven fijamente desde casi todo el mundo, sus miradas centradas en ti, sus oídos atentos a lo que dices y están ahí para escucharte hablar en un evento que sin duda es de los más importantes de América Latina y Habla Hispana.
+date: 2022-08-27 14:46
+description: Te invito a imaginar por un momento el estar frente a una multitud
+  de personas que no conoces, que te ven fijamente desde casi todo el mundo, sus
+  miradas centradas en ti, sus oídos atentos a lo que dices y están ahí para
+  escucharte hablar en un evento que sin duda es de los más importantes de
+  América Latina y Habla Hispana.
 featuredImage: /assets/Tips-perder-miedo-hablar-público.jpg
 ---
 
