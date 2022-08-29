@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Eloy Chavez
+title: New Content Creator
 tagline: Content Creator
-featuredImage: /assets/p-01wfri_400x400-modified.png
+featuredImage: /assets/05e18bb6-3114-44d0-8635-0787f8d8a331.jpg
 cta:
   ctaText: Conóceme
   ctaLink: /about
