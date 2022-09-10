@@ -2,11 +2,11 @@
   "meta": {
     "title": "EloyChavezDev",
     "titleTemplate": "Eloy Chavez Dev Blog",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ from 🇲🇽",
     "siteUrl": "https://eloychavez.dev",
     "image": "/assets/logo-eloychavezdev.png",
     "iconimage": "/assets/logo-eloychavezdev.png",
     "twitterUsername": "@EloyChavezDev"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-K7VJC41S4Q"
 }
